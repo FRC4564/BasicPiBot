@@ -1,4 +1,4 @@
-# BasicPiBot
+# Basic PiBot
 Here's a basic framework for setting up your first Raspberry Pi-based robot using Python 2.7. This example shows how easy it can be to setup a drivable a robot controlled with an XBox 360 controller.  To do this, the RPi needs some supporting electronics. 
 
 ## Electronics
