@@ -3,8 +3,8 @@ Here's a basic framework for setting up your first Raspberry Pi-based robot usin
 
 ## Electronics
 
-Hardware | Recommendations
--------- | ---------------
+Essential Components | Recommendations
+-------------------- | ---------------
 Raspberry Pi | I suggest a Pi 3, mostly for the ease of USB connection, but any Pi will do.
 Pololu Maestro Servo Controller | There are 6, 12, 18 and 24 channel versions.  Any will do, but the 12 channel version is a sweet spot (here's a [link](https://www.pololu.com/category/102/maestro-usb-servo-controllers)).  These will drive servo and motor controllers, as well as provide digital I/O and analog inputs.  Check out their documentation for full details.
 XBox 360 Controller | Wired or wireless.  Wired is good for bench testing, but to let your robot roam free, you'll want to get a wireless reciever, which is a USB dongle.  I prefer the Microsoft original hardware, if you can find it, but a knock-off should work fine.
