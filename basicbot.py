@@ -25,7 +25,7 @@ try:
             # Pressing the Xbox back button will disable the robot loop
             if j.Back():
                 enabled = False
-       else:
+        else:
             dt.stop()
         time.sleep(0.02)  #Throttle robot loop to around 50hz
 finally:
